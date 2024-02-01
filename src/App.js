@@ -19,7 +19,6 @@ const App = () => {
 
   const handleHeartClick = () => {
     setHeartIcon('❤️'); // Change the color on click
-    handleClick();
     alert('Add it to wish list')
   };
 
